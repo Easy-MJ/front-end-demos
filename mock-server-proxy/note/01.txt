@@ -1,0 +1,8 @@
+1. 运行数据服务 npm run serve
+
+2. 访问：http://127.0.0.1:8888/list.json 可以正常获取数据
+
+3. 运行前端服务 npm run start
+
+4. 访问：http://127.0.0.1:9000/api/list.json 可以正常访问数据服务，说明代理配置成功
+
